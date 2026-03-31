@@ -1,8 +1,8 @@
 **Tab. A.** FedRGL performance under inductive settings on three datasets.
 
-| Method | Cora | Cora | Cora | CS | CS | CS | Physics | Physics | Physics |
+| Dataset| Cora | Cora | Cora | CS | CS | CS | Physics | Physics | Physics |
 |--------|------|------|------|----|----|----|---------|---------|---------|
-|        | Normal | Uniform | Pair | Normal | Uniform | Pair | Normal | Uniform | Pair |
+| Method | Normal | Uniform | Pair | Normal | Uniform | Pair | Normal | Uniform | Pair |
 | FedAvg | 76.07±0.42 | 41.91±0.32 | 49.24±0.34 | 83.54±0.03 | 62.43±0.01 | 65.60±0.38 | 87.86±0.01 | 65.37±0.44 | 66.28±0.47 |
 | FGSSL  | 76.81±0.01 | 44.36±0.43 | 50.44±0.05 | 85.88±0.41 | 65.09±0.34 | 66.90±0.44 | 89.64±0.38 | 71.34±0.34 | 73.46±0.01 |
 | FedTAD | 75.85±0.15 | 40.60±0.28 | 49.78±0.34 | 82.85±0.01 | 66.27±0.35 | 66.02±0.07 | 90.85±0.02 | 66.41±0.38 | 67.93±0.42 |
